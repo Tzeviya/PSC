@@ -6,6 +6,10 @@ Python implementation for ["Jointly Learning to Locate and Classify Words using 
 
 Also implemented the version described in ["Visually grounded learning of keyword prediction from untranscribed speech"](https://arxiv.org/pdf/1703.08136.pdf).
 
+Implemented by \
+Yael Segal (segalya@cs.biu.ac.il)\
+Tzeviya Sylvia Fuchs (fuchstz@cs.biu.ac.il) \
+
 
 - Data:
 
