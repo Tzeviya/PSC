@@ -11,7 +11,7 @@ import pdb
 import Datasets
 
 
-parser = argparse.ArgumentParser(description='train classification for yolo model')
+parser = argparse.ArgumentParser(description='train classification for psc model')
 parser.add_argument('--train_data', type=str, default='train_data_list.txt',
                     help='location of the train data list')
 parser.add_argument('--val_data', type=str, default='dev_data_list.txt',

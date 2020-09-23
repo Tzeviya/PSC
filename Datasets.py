@@ -244,13 +244,13 @@ class ImbalancedYoloDatasetSampler(Sampler):
 
 
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
 
-    pdb.set_trace()
-    speech_dataset = SpeechDataset(root_dir='/home/mlspeech/segalya/yolo/YoloSpeech2Word/data/mfcc_labels/buckeye', normalize_feats = True)
+#     pdb.set_trace()
+#     speech_dataset = SpeechDataset(root_dir='/home/mlspeech/segalya/yolo/YoloSpeech2Word/data/mfcc_labels/buckeye', normalize_feats = True)
 
 
-    for i in range(len(speech_dataset)):
-        sample = speech_dataset[i]
+#     for i in range(len(speech_dataset)):
+#         sample = speech_dataset[i]
 
-        print(sample)
+#         print(sample)
